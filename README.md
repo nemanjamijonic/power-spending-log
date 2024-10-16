@@ -31,7 +31,7 @@ Detailed setup instructions will be included at a later date, once the applicati
 
 ## Participants
 
-Luka Vidaković PR 137/2020 [LukaVidakovic]
-Nemanja Mijonić PR 138/2020 [nemanjamijonic]
-Olivera Čakan PR 71/2020 [oli167]
-Milica Klincov PR 70/2020 [klincovmilica]
+- Luka Vidaković PR 137/2020 [LukaVidakovic]
+- Nemanja Mijonić PR 138/2020 [nemanjamijonic]
+- Olivera Čakan PR 71/2020 [oli167]
+- Milica Klincov PR 70/2020 [klincovmilica]
